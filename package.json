@@ -1,0 +1,30 @@
+{
+  "name": "complaint-management-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misty360/Complaint-Management-Agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/misty360/Complaint-Management-Agent/issues"
+  },
+  "homepage": "https://github.com/misty360/Complaint-Management-Agent#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.55.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
