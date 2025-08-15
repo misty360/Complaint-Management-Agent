@@ -18,10 +18,13 @@ DELETE /api/complaints/:id – Delete a complaint
 
 ### Steps 
 1. Navigate to the backend folder:
+   ```bash
    cd backend
 2. Install dependencies:
+   ```bash
    npm install
 3. Start the backend server:
+   ```bash
    npm run dev
 Server will run on http://localhost:5001.
 
@@ -35,8 +38,10 @@ The frontend uses Vite for fast development and HMR. Tailwind CSS is used for st
    ```bash
    cd frontend
 2. Install dependencies:
+   ```bash
    npm install
 3. Start the frontend server:
+   ```bash
    npm run dev
 The app will run on http://localhost:5173.
 
