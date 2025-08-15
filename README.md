@@ -12,8 +12,11 @@ The backend provides API endpoints to interact with the Supabase database.
 ## API Endpoints Implemented 
 
 GET /api/complaints – Fetch all complaints
+
 POST /api/complaints – Submit a new complaint
+
 PATCH /api/complaints/:id – Update complaint status
+
 DELETE /api/complaints/:id – Delete a complaint
 
 ### Steps 
